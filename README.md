@@ -5,4 +5,4 @@
 ## George Huang
 ![CityBackground](CityBackgroundGH.png)
 # Enemy Graphic
-
+![Enemy](Enemy.png)
