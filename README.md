@@ -4,5 +4,6 @@
 # City Background GameDev 3 
 ## George Huang
 ![CityBackground](CityBackgroundGH.png)
-# Enemy Graphic
+# Enemy Graphic GameDev 3
+## George Huang
 ![Enemy](Enemy.png)
